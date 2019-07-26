@@ -4,9 +4,16 @@ public class java{
 	public static void main(String args){
 		String hw = "Hello World";
 		tampil();
+		ubah();
+
 	}
 public void tampil(){
 
 	sytem.outPrintln("tampil");
+}
+public void ubah(){
+
+	sytem.outPrintln("tampil");
+
 }
 }

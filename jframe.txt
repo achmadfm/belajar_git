@@ -1,0 +1,7 @@
+import javax.JFrame;
+
+public class jframe{
+	public void main(String args){
+		this.JFrame;
+	}
+}

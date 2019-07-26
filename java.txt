@@ -3,5 +3,10 @@ import java.util.Scanner;
 public class java{
 	public static void main(String args){
 		String hw = "Hello World";
+		tampil();
 	}
+public void tampil(){
+
+	sytem.outPrintln("tampil");
+}
 }
